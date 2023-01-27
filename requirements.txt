@@ -3,5 +3,4 @@ pdfminer==20191125
 pdf2image
 pytesseract
 streamlit_js_eval 
-yaml
 streamlit_authenticator 
