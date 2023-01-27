@@ -1,0 +1,25 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    admin:
+      email: admin@gmail.com
+      name: Sedin Technologies
+      password: $2b$12$OsHlxcxKD7UJS7RvlCci1OOue4a6PgBXX3niFTy8oRNhqaej4ju.6
+    jsmith:
+      email: jsmith@gmail.com
+      name: John Smith
+      password: $2b$12$kOhDMjVmP5CTaByYEexG4OIMyPknVsxLHKdlltN8NBtKZ.kCNEZz.
+    rbriggs:
+      email: rbriggs@gmail.com
+      name: Rebecca Briggs
+      password: $2b$12$to1ADtwtCOFGMFNow7iJj.GjWWqy6FOEeeBjl/c.FmCZBSkf2bCr.
+    rcouper:
+      email: rcouper@gmail.com
+      name: Ross Couper
+      password: $2b$12$Tir/PbHVmmnt5kgNxgOwMuxNIb2fv2pJ.q71TW8ekvbugCqkye4yu
+preauthorized:
+  emails:
+  - melsby@gmail.com
